@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yifan-block
 - 👀 I’m interested in 🐈 Cat, 🍱 food (especially 🌶️ spicy dishes), 🏂 🏍️ 🏕️ 🏊‍♀️ outdoor sports (beginner though), 🎵 music (country, folk, pop, jazz, new wave, Cantonese songs)... 
-- 🌱 I’m currently learning Spanish and motorcycle
-- 💞️ I’m looking to collaborate on P2P Trust
+- 🌱 I’m currently learning Spanish 🇲🇽 and motorcycle 🏍️
+- 💞️ I’m looking to collaborate on P2P Platform
 - 📫 How to reach me: Slack @yifanli
 
 <!---
