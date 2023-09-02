@@ -1,8 +1,12 @@
 - 👋 Hi, I’m Yifan
-- 👀 I love 🐈 cat, 🍱 food (especially 🌶️ spicy dishes), 🏂 🏍️ 🏕️ 🏊‍♀️ outdoor sports (beginner though), 🎵 music (country, folk, pop, jazz, new wave, Cantonese songs)... 
+- 👀 I love 🐈 cat, 🍱 🌶️ food, 🏂 🏍️ 🏕️ 🏊‍♀️ outdoor sports, 🎵country, folk, pop, jazz, new wave, new age, Cantonese songs... 
 - 🌱 I’m currently learning Spanish 🇲🇽 and motorcycle 🏍️
 - 💞️ I’m looking to collaborate on P2P Platform
 - 📫 How to reach me: Slack @yifanli
+
+> “At the end of the day, we can endure much more than we think we can.”
+
+― _Frida Kahlo_
 
 <!---
 yifan-block/yifan-block is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
