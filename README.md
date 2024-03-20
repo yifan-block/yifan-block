@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yifan
-- 👀 I love 🐈 cat, 🍱 🌶️ food, 🏂 🏍️ 🏕️ 🏊‍♀️ outdoor sports, 🎵country, folk, pop, jazz, new wave, new age, Cantonese songs... 
+- 👀 I love 🐈 cat, 🍱 🌶️ food, 🏂 🏍️ 🏕️ 🏊‍♀️ outdoor sports, 🎵country, folk, pop, jazz, new wave, new age... 
 - 🌱 I’m currently learning Spanish 🇲🇽 , motorcycle 🏍️ and ukulele
 - 💞️ I’m looking to collaborate on P2P Platform
 - 📫 How to reach me: Slack @yifanli
